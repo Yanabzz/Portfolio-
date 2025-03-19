@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 1rem;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            padding: 2rem;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 0rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="home">
+        <h2>Home</h2>
+        <img src="" width="150" style="float: right; margin-left: 1rem;">
+        <p>Welcome to My Portfolio Website!</p>                                           
+        <p>I'm Ariana Caila D. Policar a Grade 11 - ICT student</p>
+    </section>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Here is some information about me.</p>
+        <p>I was a girl in the village doing all right then I became an ICT student overnight now I gotta figure out how to do it right so much to learn and see. </p>
+        <p>Up on the 3rd floor with my new family in a school that just for royalty a whole enchanted world is waiting for me I'm so excited to be (Ariana the First)</p>
+        <p>I'm finding out what being ICT's all about (Ariana the First)</p>
+        <p>Making my way, it's an adventure everyday (Ariana)</p>
+        <p>It's gonna be my time (Ariana)</p>
+        <p>To show them all that I'm Ariana the First!</p><br>
+        <p>Kidding aside, I am a cheerful person that's why I also want to make other people happy. I want to show you guys my leadership and academic backgrounds:</p>
+        <ul>
+            <h4><li>Nursery - FIRST HONOR</li></h4> </ul>
+            <ol>
+            <li>Best in Bible Lessons</li>
+            <li>Best in Math</li>
+            <li>Best in Science</li>
+            <li>Best in Writing</li>
+            <li>Best in Reading</li>
+            <li>CHAMPION - Buwan ng Wika</li>
+            <li>2ND PLACE - Poem Recital</li></ol>
+        <ul>
+            <h4><li>Kinder - FIRST HONOR</li></h4></ul>
+        <ul>   
+            <h4><li>Grade 2 - With Honors</li></h4></ul>
+        <ul>    
+            <h4><li>Grade 3 - With Honors</li></h4></ul>
+            <ol>
+            <li>Happy Helper Award</li>
+            <li>Babaeng Iskawt</li></ol>
+        <ul>
+            <h4><li>Grade 4 - With Honors</li></h4></ul>
+        <ul>    
+            <h4><li>Grade 5 - With Honors</li></h4></ul>
+        <ul>              
+            <h4><li>Grade 6 - With Honors</li></h4></ul>
+            <ol>
+            <li>Loyalty Award</li></ol>
+        <ul>
+            <h4><li>Grade 7 - With Honors</li></h4></ul>
+        <ul>
+            <h4><li>Grade 8 - With Honors</li></h4></ul>
+        <ul>
+            <h4><li>Grade 9 - With High Honors</li></h4></ul>
+            <ol>
+            <li>5TH PLACE - DSPAPSPA Festival of Knowledge - MAPEH Quiz Bee</li>
+            <li>3RD PLACE - Quiz Bee Math & Science Month</li>
+            <li>1ST PLACE - SCI-Magic Discovery Fair</li></ol>
+        <ul>
+            <h4><li>Grade 10 - With High Honors</li></h4></ul>
+            <ol>
+            <li>TOP 3 OVERALL</li>
+            <li>Dangal ng Kabataan Award</li>
+            <li>1ST PLACE - Buwan ng Wika Dance Competition</li>
+            <li>1ST PLACE - CCA Caroling</li>
+            <li>SSG Sgt & Arms 2</li></ol>
+        <ul>
+            <h4><li>Grade 11 - With High Honors</li></h4></ul>
+            <ol>
+            <li>TOP 1 - 1st to 2nd semester</li>
+            <li>Junior Municipal Councilor</li>
+            <li>SSG Peace and Order Chairperson</li>
+        </ul>
+    </section>
+    </section>
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Here are some of my projects.</p>
+        <ul>
+            <li>
+                <h3>Project 1</h3>
+                <p>HOPE - Dance Performance</p>
+            </li>
+            <li>
+                <h3>Project 2</h3>
+                <p>21st Century - Big Book</p>
+            </li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me!</p>
+        <p>Email: <a href="mailto:policarariana@gmail.com">policarariana@gmail.com</a></p>
+        <p>Facebook: <a href="https://m.facebook.com/arianacaila.policar/">Ariana Policar</a></p>
+    </section>
+    <footer>
+        <p>Submitted to Mr. Dickerson V. Manalo</p>
+    </footer>
+</body>
+</html>
